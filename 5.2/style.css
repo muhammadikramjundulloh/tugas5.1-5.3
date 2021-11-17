@@ -1,0 +1,48 @@
+.row{
+  
+  width: 1200px;
+  height: 600px;
+  margin: auto;
+}
+
+.header{
+  border: 1px solid black;
+  width: 1000px;
+  height: 100px;
+  background-color:lightgreen;
+}
+.center{
+  border: 1px solid black;
+  height: 200px;
+  width: 180px;
+  margin-top: 50px;
+  background-color: yellow; 
+}
+.left{
+  border: 1px solid black;
+  width: 780px;
+  height: 200px;
+  position: absolute;
+  left: 300px;
+  top: 162px;
+  background-color: orangered
+} 
+
+.nav{
+  border: 1px solid black;
+   height: 180px;
+  width: 180px;
+  margin-top: 50px;
+  background-color: yellow; 
+
+}
+.content{
+  
+  border: 1px solid black;
+  width: 780px;
+  height: 180px;
+  position: absolute;
+  left: 300px;
+  top: 412px;
+  background-color: cyan
+}
